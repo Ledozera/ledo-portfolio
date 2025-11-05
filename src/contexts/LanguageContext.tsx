@@ -40,6 +40,7 @@ const translations = {
     'projects.crm-imobiliario.description': 'Plataforma especializada para gestão imobiliária com funcionalidades avançadas de acompanhamento de leads e propriedades.',
     'projects.automacoes.title': 'Automações Imobiliárias',
     'projects.automacoes.description': 'Sistema de automações integradas usando N8N + Evolution API + CRM Imobiliário para otimizar processos.',
+<<<<<<< HEAD
     'projects.anaprev.title': 'ANAPREV',
     'projects.anaprev.description': 'Sistema que faz controle de demandas de planilhamentos e planilhamentos para analise de risco de empresas, foi feito para uma empresa focada nessas analises.',
     'projects.leadex.title': 'Leadex',
@@ -48,6 +49,10 @@ const translations = {
     'projects.websites.adnan.description': 'O site oficial do Grupo ADN, um conglomerado de empresas especializadas em engenharia, consultoria técnica e imobiliária, e topografia. Uma plataforma completa que reflete a expertise e a abrangência dos serviços oferecidos.',
     'projects.websites.adnimobiliaria.description': 'A plataforma digital da imobiliária do Grupo ADN, oferecendo soluções completas para compra, venda e aluguel de imóveis. Design intuitivo e funcionalidades que facilitam a busca pelo imóvel ideal.',
     'projects.websites.netspheretec.description': 'Site da Netsphere, uma empresa de tecnologia inovadora com foco em soluções de hardware, desenvolvimento de software, consultoria estratégica e serviços de TI. Apresenta um portfólio diversificado e a visão de futuro da empresa.',
+=======
+    'projects.websites.title': 'Sites WordPress',
+    'projects.websites.description': 'Desenvolvimento de sites institucionais e corporativos com WordPress.',
+>>>>>>> 7c07e3348d05e36b7f319a15dd44e6b0154a5895
     'projects.view': 'Ver projeto',
     
     // Contact
@@ -108,6 +113,7 @@ const translations = {
     'projects.crm-imobiliario.description': 'Specialized platform for real estate management with advanced lead and property tracking features.',
     'projects.automacoes.title': 'Real Estate Automations',
     'projects.automacoes.description': 'Integrated automation system using N8N + Evolution API + Real Estate CRM to optimize processes.',
+<<<<<<< HEAD
     'projects.anaprev.title': 'ANAPREV',
     'projects.anaprev.description': 'A system that controls the demands of spreadsheets and spreadsheets for risk analysis of companies, made for a company focused on these analyses.',
     'projects.leadex.title': 'Leadex',
@@ -116,6 +122,10 @@ const translations = {
     'projects.websites.adnan.description': 'The official website of the ADN Group, a conglomerate of companies specializing in engineering, technical and real estate consulting, and topography. A comprehensive platform that reflects the expertise and breadth of services offered.',
     'projects.websites.adnimobiliaria.description': 'The digital platform of the ADN Group is real estate agency, offering complete solutions for buying, selling, and renting properties. Intuitive design and functionalities that facilitate the search for the ideal property.',
     'projects.websites.netspheretec.description': 'Netsphere is website, an innovative technology company focused on hardware solutions, software development, strategic consulting, and IT services. It showcases a diverse portfolio and the company\'s future vision.',
+=======
+    'projects.websites.title': 'WordPress Sites',
+    'projects.websites.description': 'Development of institutional and corporate websites with WordPress.',
+>>>>>>> 7c07e3348d05e36b7f319a15dd44e6b0154a5895
     'projects.view': 'View project',
     
     // Contact
