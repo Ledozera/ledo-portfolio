@@ -48,6 +48,22 @@ export const Projects: React.FC = () => {
       tech: ['N8N', 'Evolution API', 'Automations'],
       gradient: 'from-green-600 to-blue-600',
       link: '#'
+    },
+    {
+      title: t('projects.anaprev.title'),
+      description: t('projects.anaprev.description'),
+      icon: <Database className="w-6 h-6" />,
+      tech: ['Bubble', 'Javascript', 'Kanban', 'APIs'],
+      gradient: 'from-cyan-600 to-teal-600',
+      link: 'https://bubble.io/page?id=anaprev'
+    },
+    {
+      title: t('projects.leadex.title'),
+      description: t('projects.leadex.description'),
+      icon: <Code className="w-6 h-6" />,
+      tech: ['Bubble', 'CRM', 'In Development'],
+      gradient: 'from-rose-600 to-fuchsia-600',
+      link: 'https://bubble.io/page?id=leadex-15922'
     }
   ];
 
@@ -155,7 +171,11 @@ export const Projects: React.FC = () => {
                     </div>
                     
                     <h4 className="text-lg font-bold text-white mb-2">{website.name}</h4>
-                    <p className="text-gray-400 text-sm mb-4">{t('projects.websites.description')}</p>
+                    <p className="text-gray-400 text-sm mb-4">
+                      {website.name === 'adnan.com.br' && t('projects.websites.adnan.description')}
+                      {website.name === 'adnimobiliaria.com.br' && t('projects.websites.adnimobiliaria.description')}
+                      {website.name === 'netspheretec.com.br' && t('projects.websites.netspheretec.description')}
+                    </p>
                     
                     <div className="inline-flex items-center space-x-2 text-purple-400 group-hover:text-purple-300 transition-colors duration-200">
                       <span>Visit site</span>
